@@ -101,14 +101,15 @@ h2{
 .p-c{
   padding: 3% 2%;
   text-align: center;
-}
-#footer{
 
-  text-align: center;
 }
+
 #cta{
 
   text-align: center;
+  background-color: #ff4c68;
+  padding: 7% 15%;
+
 }
 .D{
   text-align: center;
@@ -123,4 +124,20 @@ h2{
     transform: rotate(0);
 
   }
+}
+
+.fn{
+  color: #fff;
+  font-size: "Montserrat-Black";
+  font-size: 3.5rem;
+  line-height: 1.5rem;
+
+}
+
+#footer{
+  padding: 7% 15%;
+  text-align:center;
+}
+.s-c{
+  margin: 20px 10px;
 }
